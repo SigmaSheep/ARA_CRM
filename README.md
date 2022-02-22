@@ -1,19 +1,41 @@
 # ARA_CRM
  This is a demo project for a employee information management system
 
+### Login
  Please visit http://www.aracrm.com/
- login with username:  kevin
-            password:  abc123
+ 
+ login with 
+ 
+  - username:  kevin
 
- This project uses Thymeleaf and Bootstrap for frontend
-                   Spring Boot as backend
-                   Spring Data REST and MySQL to persist data
+  - password:  abc123
+
+ 
+ This project uses 
+ 
+  - Thymeleaf and Bootstrap for frontend
+
+  - Spring Boot as backend
+                   
+  - Spring Data REST and MySQL to persist data
+                   
  This project is deploted to AWS Elatic Beanstalk
 
+
+<br /> 
+
+### User types
+
  The project has following types of account priviledges and sample user accounts
+ 
 ![image](https://user-images.githubusercontent.com/22802083/155197492-3f1c885d-ec42-4387-b49d-3f4b8f84b0f0.png)
 
+<br /> 
+
+### Pages
+
  login page
+ 
 ![image](https://user-images.githubusercontent.com/22802083/155197733-3ee20d64-015b-4aca-8bd4-17d97fbbca78.png)
 
  /employees/list (login as kevin)
